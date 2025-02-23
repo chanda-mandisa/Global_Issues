@@ -18,8 +18,8 @@ This project enables users to generate AI-assisted academic articles efficiently
 #### Clone the Repository
 
 ```sh
-git clone https://github.com/chanda-mandisa/GlobalIssues.git
-cd GlobalIssues
+git clone https://github.com/chanda-mandisa/Global_Issues.git
+cd Global_Issues
 ```
 
 ### System Requirements
